@@ -5,6 +5,7 @@ Este repositorio lo vamos a emplear para poner en practica el manejo de git vist
 de Despliegue de Aplicaciones Web de 2º de DAW.
 
 |  Compañeros de clase			|
+|-------------------------|-----------------------|
 | NOMBRE                  | GITHUB                |
 |-------------------------|-----------------------|
 | Vanesa		  | [VaneLP](https://github.com/VaneLP) |
